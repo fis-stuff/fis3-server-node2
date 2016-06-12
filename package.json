@@ -1,14 +1,14 @@
 {
-  "name": "fk-server-node",
+  "name": "fis3-server-node2",
   "version": "0.0.1",
-  "description": "fk server node for fiskit",
+  "description": "fis3 server node for url combo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fis-stuff/fk-server-node.git"
+    "url": "https://github.com/fis-stuff/fis3-server-node2.git"
   },
   "keywords": [
     "fk",
@@ -28,7 +28,7 @@
   "author": "richard chen",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/fis-stuff/fk-server-node/issues"
+    "url": "https://github.com/fis-stuff/fis3-server-node2/issues"
   },
-  "homepage": "https://github.com/fis-stuff/fk-server-node"
+  "homepage": "https://github.com/fis-stuff/fis3-server-node2"
 }
