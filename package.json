@@ -1,6 +1,6 @@
 {
   "name": "fis3-server-node2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fis3 server node for url combo",
   "main": "index.js",
   "scripts": {
